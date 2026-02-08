@@ -1,9 +1,0 @@
-#include <stdio.h>
-#include max 25
-void allocate(int b[],int f[],int nb ,int nf,char*method)
-
-int main()
-{
-int b[max],f[max],nb,nf;
-
-
